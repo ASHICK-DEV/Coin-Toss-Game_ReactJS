@@ -5,6 +5,8 @@
   align-items: center;
   background-image: linear-gradient(to left, #e2a139, #f9d423);
   min-height: 100vh;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 .coin-toss-container {
@@ -30,7 +32,7 @@
 @media screen and (min-width: 768px) {
   .coin-toss-container {
     max-width: 500px;
-    padding: 64px;
+    padding: 24px;
   }
 }
 
